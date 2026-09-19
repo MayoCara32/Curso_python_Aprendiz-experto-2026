@@ -1,0 +1,10 @@
+
+num1 = float(input("Ingrese un numero: "))
+num2 = float(input("Ingrese otro numero: "))
+print(f"La suma de {num1} + {num2} es: {num1 + num2}")
+print(f"La resta de {num1} - {num2} es: {num1 - num2}")
+print(f"La multiplicación de {num1} * {num2} es: {num1 * num2}")
+print(f"La división de {num1} / {num2} es: {num1 / num2}")
+print(f"La división entera de {num1} // {num2} es: {num1 // num2}")
+print(f"El residuo de {num1} % {num2} es: {num1 % num2}")
+print(f"La potencia de {num1} ** {num2} es: {num1 ** num2}")

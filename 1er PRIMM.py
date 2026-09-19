@@ -1,15 +1,16 @@
-#Esto es un comentario
+print("hola") #Esto es un comentario
 """
 Esto es un comentario multilinea
 Puedo comentar varias líneas de código
+Hola, soy un comentario multilinea
 """
 #!Tipos de variables usadas en Python
 
 numerica = 10
-flotante = 10.5
-String = "hola mundo"
+flotante = 34.6
+String = "hola fili"
 caracter = 'a'
-booleano = True
+booleano = False
 
 #! Formas de imprimir en python
 print(numerica)
@@ -22,6 +23,8 @@ print(f"Hola, soy una variable de tipo booleano, y mi valor es: {booleano}")
 print("Operadores aritméticos: +, -, *, /, %, **")
 print("Operadores de comparación: ==, !=, <, >, <=, >=")
 print("Operadores lógicos: and, or, not")
+
+
 
 
 
