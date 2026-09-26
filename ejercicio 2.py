@@ -28,5 +28,5 @@ def main():
     print(f"Gasto: {gasto}")
     print(f"Disponible: {disponible}")
     print(f"Estado: {estado}")
-    
+    print("Gracias por usar el sistema de control de presupuesto.")
 main()
