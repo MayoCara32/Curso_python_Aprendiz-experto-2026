@@ -21,7 +21,7 @@ gasto["monto"] = 40.0
 # setdefault: agrega una clave sólo si no existe
 gasto.setdefault("moneda", "MXN")
 gasto.setdefault("moneda", "USD")  # No reemplaza el valor existente
-
+print(gasto)
 # update: agrega o actualiza varios valores
 gasto.update({
     "categoria": "Transporte urbano",

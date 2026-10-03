@@ -16,3 +16,8 @@ print(f"Total gastado: ${total:.2f}")
 
 for clave, valor in gastos[0].items():
     print(f"{clave}: {valor}")
+
+print(f"{gastos[0]}")    
+
+for i in range(0, len(gastos)):
+    print(f"Gasto {i+1}: {gastos[i]['categoria']} - ${gastos[i]['monto']:.2f}")

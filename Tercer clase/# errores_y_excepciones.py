@@ -70,7 +70,7 @@ dividir_presupuesto(500, 5)
 dividir_presupuesto(500, 0)
 
 try:
-    monto = convertir_monto("abc")
+    monto = convertir_monto("siesiete")
 except MontoInvalidoError as error:
     print(f"Error controlado: {error}")
 

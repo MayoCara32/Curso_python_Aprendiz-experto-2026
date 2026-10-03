@@ -11,7 +11,7 @@ def mostrar():
 
 def resumen():
     print("Mostrar resumen.")
-
+    
 
 while True:
     print("\n=== MENÚ CON MATCH/CASE ===")
